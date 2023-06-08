@@ -1,3 +1,0 @@
-react-icons==4.9.0
-framer-motion==10.12.16
-styled-components==5.3.6
