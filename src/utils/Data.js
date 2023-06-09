@@ -11,6 +11,8 @@ import Integra from "../assets/images/Project1.png";
 import AgentShooter from "../assets/images/Project2.png";
 import GraphicalTools from "../assets/images/Project3.png";
 import Cipherian from "../assets/images/Project5.png";
+import Majika from "../assets/images/Project6.png";
+import EFoodery from "../assets/images/Project8.png";
 
 // import theme
 import { Theme } from "../utils/Theme";
@@ -82,9 +84,9 @@ export const Projects = [
         project_type: "Mobile App",
         project_description: "An Android application for food ordering purposes. User can see a list of restaurants that integrate with the application, make an order based on a bunch of dishes, and pay the bill with a QR Code. Developed an Android mobile app using Kotlin programming language and Android platform using Android Studio and integrated backend system with database using Retrofit for local access and Firebase for server side.",
         tech_stack: ["Kotlin", "Retrofit", "Firebase", "Andoid Studio"],
-        project_image: Blank,
-        project_url: "",
-        images: "",
+        project_image: Majika,
+        project_url: "https://drive.google.com/file/d/1W3OxOVQyAR3e4SgX4i8C5Cxbmxd-HrlE/view?usp=sharing",
+        images: "https://drive.google.com/drive/folders/1cijbpmPzUEiuLCk6ml1AMrWJPy0pPTT9?usp=sharing",
         source_code: "F",
         reverse: true,
     },
@@ -106,9 +108,9 @@ export const Projects = [
         project_type: "UI/UX Design",
         project_description: "A high-fidelity design of a GoFood-like mobile application and business process. The application is designed to perform food ordering from a restaurant, including functionalities such as filtering, a shopping cart, ordering, payment processing, order tracking, and chat communication with the delivery courier.",
         tech_stack: ["Fgima", "Adobe Photoshop"],
-        project_image: Blank,
-        project_url: "",
-        images: "",
+        project_image: EFoodery,
+        project_url: "https://www.figma.com/proto/6NoMvtk0LLT0WC7qO0PX65/IMK-E-Commerce?type=design&node-id=504-2531&scaling=scale-down&page-id=15%3A2&starting-point-node-id=21%3A2",
+        images: "https://drive.google.com/drive/folders/1G26-TnVH0kCb3BCyWqtTLVw_knbKlIO0?usp=sharing",
         source_code: "F",
         reverse: true,
     },
