@@ -39,7 +39,7 @@ const Project = ({ data }) => {
             <Heading as='h3' size='h3'>
                 {data.project_name}
             </Heading>
-            <IconContainer color='blue' size='2rem' target='_blank' href={data.source_code==="F" ? "~" : data.source_code}>
+            <IconContainer color='blue' size='2rem' target='_blank' href={ data.source_code }>
                 <FaGithub />
             </IconContainer>
             </FlexContainer>

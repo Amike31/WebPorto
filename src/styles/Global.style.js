@@ -3,6 +3,7 @@ import styled from "styled-components";
 
 export const MainBody = styled.div`
     background-color: ${props => props.theme.colors.primary};
+    min-height: 100vh;
 `;
 
 export const Container = styled.div`
