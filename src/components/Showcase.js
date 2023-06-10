@@ -79,7 +79,7 @@ import { fadeInLeftVariant, fadeInRightVariant } from "../utils/Variants";
                             <IconContainer color="white" size="1.6rem" target="_blank" href='https://www.instagram.com/'>
                                 <BsInstagram/>
                             </IconContainer>
-                            <IconContainer color="white" size='1.6rem' target="_blank" href='https://drive.google.com/file/d/1n8Cv-HzQTtRvBnC5G9v2kUlcM9449HmH/view?usp=sharing'>
+                            <IconContainer color="white" size='1.6rem' target="_blank" href='https://drive.google.com/drive/folders/1aJL02_Zyic8M8XUx89nVR3AmgVZnbDS-?usp=sharing'>
                                 <FiFileText/>
                             </IconContainer>
                         </FlexContainer>
